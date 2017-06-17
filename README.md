@@ -1,1 +1,3 @@
 # LaundroAid
+
+Senior project
